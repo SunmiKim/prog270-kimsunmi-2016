@@ -3,6 +3,7 @@
 ### Step One (status)
 - cd ~/temp/qux 
 - git status
+
 ### Step Two (clone)
 - cd ~/Git/prog270-kimsunmi-2016
 - git clone git@github.com:username/prog270-kimsunmi-2016.git
