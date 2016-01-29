@@ -16,7 +16,7 @@
 - git status
 
 ### Step Four (pull)
-- cd ~/Git/prog270-kimsunmi-2016 (can also try at ~/temp/qux)
+- cd ~/temp/qux
 - git pull
 - cat README.md
 
