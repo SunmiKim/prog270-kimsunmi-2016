@@ -1,7 +1,8 @@
 node_modules
-components
-bower_components
-.idea
-*.zip
 .metadata
+.idea
+bower_components
+components
+Thumbs.db
+*.zip
 
