@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Git Steps in PROG270
 
 - /Git/prog270-kimsunmi-2016
@@ -7,7 +6,6 @@
 - git push
 - git status
 
-=======
 ## Git Steps in PROG270 for GitDualRepos
 
 ### Step One (status)
@@ -30,7 +28,15 @@
 - git pull
 - cat README.md
 
->>>>>>> a56ab343c114be326459f09889fdf5f382b86dc1
+### Step Five (add AllTest)
+- cp -r ~/Documents/AllTest .
+
+### Step Six (pull AllTest)
+- git pull
+
+### Step Seven (share Repository)
+- Select Settings > Collaborators
+
 Don't every do a git commit without the dash m (-m). 
 It opens an editor and you won't be happy when you are in it. 
 
