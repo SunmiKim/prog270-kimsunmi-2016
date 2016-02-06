@@ -1,4 +1,4 @@
-* [WalkingMap.html](WalkingMap.html)
+* [WalkingMapKim_Sunmi.html](WalkingMapKim_Sunmi.html)
 * [all-test-01.html](all-test-01.html)
 * [all-test-02.html](all-test-02.html)
 * [file1.html](file1.html)
