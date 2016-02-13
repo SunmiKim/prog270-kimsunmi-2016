@@ -1,6 +1,6 @@
 ## Git Steps in PROG270
 
-- /Git/prog270-kimsunmi-2016
+- Git/prog270-kimsunmi-2016
 - git add README.md
 - git commit -m "Modified README in dual repo test"
 - git push
