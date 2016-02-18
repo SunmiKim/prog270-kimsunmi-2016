@@ -1,6 +1,3 @@
-* [WalkingMapKim_Sunmi.html](WalkingMapKim_Sunmi.html)
-* [all-test-01.html](all-test-01.html)
-* [all-test-02.html](all-test-02.html)
-* [file1.html](file1.html)
-* [file2.html](file2.html)
+* [SunmiTest.html](SunmiTest.html)
+* [SunmiTest2.html](SunmiTest2.html)
 * [master-list.html](master-list.html)
