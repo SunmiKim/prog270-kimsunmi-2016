@@ -4,10 +4,6 @@
 - Two
 - Three
 - Four
-<<<<<<< HEAD
-
-! now I want to explain something at length. 
-=======
 - Five
 - Six
 - Seven
@@ -20,4 +16,3 @@
 
 ![My Ship](/images/ship.jpg)
 
->>>>>>> e9ad20ece760a17911d53c81f92bbb838fe867f7
