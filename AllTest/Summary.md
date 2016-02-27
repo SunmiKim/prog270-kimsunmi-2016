@@ -4,3 +4,4 @@
 * [file1.html](file1.html)
 * [leadership.html](leadership.html)
 * [master-list.html](master-list.html)
+* [politicking.html](politicking.html)
