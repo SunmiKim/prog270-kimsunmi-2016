@@ -3,7 +3,7 @@
 *Q: Identify a successful leader you have observed in a workplace and describe how he or she demonstrated the characteristics of effective leaders? How were these people leaders rather than merely managers?*
  
 
- In my experience at workplaces in the United States, my managers, are ‘real’ talented managers but I seldom mentioned them as ‘leaders’ not because I’m disqualifying them as leaders but because they became leaders not by votes.  For this reason, I want to introduce one real leader who had made a great impact on my life. He is pretty similar with Abraham Lincoln in the United States with some similarities from the list below:
+ In my experience at workplaces in the United States, my managers, are ‘real’ talented managers but I seldom mentioned them as ‘leaders’ not because I’m disqualifying them as leaders but because they became leaders not by votes. For this reason, I want to introduce one real leader who had made a great impact on my life. He is pretty similar with Abraham Lincoln in the United States with some similarities from the list below:
 
 1. He grew up in a very poor rural area and could not complete his schooling in a regular high school.
 2. Half of the population eagerly supported him whereas another half of the population did not like him due to political reason just like Abraham Lincoln.
@@ -30,7 +30,7 @@ Thirdly, he was a sympathetic leader who is truly caring for others listening ca
  
  
 
-Finally, he is not only great political leader in South Korea but also he proved to be the greatest economic leader in Korean history. When he became the president in early 1998, the entire country was deeply affected by the Asian (or Korean) financial crisis in 1997 and many economists all over the world were very much pessimistic about the situation that it may go to ruin with almost zero for foreign exchange holding. However, as soon as he became a president in his very old age, he worked very hard day and night eating lunch from lunch box every day to revive Korean economy embracing many of his enemies including former president, military dictator, who gave him death sentence. And after 5 years of presidency in South Korea in 2002, the foreign exchange holding was 4th biggest in the world (source: blog.ohmynews.com/wjs88/369775) and many economists from all over the world almost got shocked on how he managed to make the country revived so successfully and quickly from ruin.
+Finally, he is not only great political leader in South Korea but also he proved to be the greatest economic leader in Korean history. When he became the president in early 1998, the entire country was deeply affected by the Asian (or Korean) financial crisis in 1997 and many economists all over the world were very much pessimistic about the situation that it may go to ruin with almost zero for foreign exchange holding. However, as soon as he became a president in his very old age, he worked very hard day and night eating lunch from lunch box every day to revive Korean economy embracing many of his enemies including former presidents, military dictators, who gave him death sentence. And after 5 years of presidency in South Korea in 2002, the foreign exchange holding was 4th biggest in the world (source: blog.ohmynews.com/wjs88/369775) and many economists from all over the world almost got shocked on how he managed to make the country revived so successfully and quickly from ruin.
 
  
 
@@ -40,4 +40,19 @@ In conclusion, it is relatively easy to be a manager than to be a leader. I am s
 Written by Sun-mi Kim
 
  ![Kim, Dae-Jung](images/Kim_Dae-jung.png)
+
+### South Korean Presidents
+
+| Name                  | Length                   | Note 
+|-----------------------|:------------------------|:---------------------------------------------
+|Lee, SeungMan    | 12 years (~1960)| N/A
+|Park, JungHee      | 18 years (~1979)| Military (assassinated)
+|Jeon, DooHwan    | 7 years (~1987)   | Military
+|Noh, TaeWoo        | 5 years (~1992)   | Military
+|Kim, YoungSam   | 5 years (~1997)   | Machiavellian causing crisis
+|Kim, DaeJung       | 5 years (~2002)   | 1st Democratic president
+|Noh, MooHyun    | 5 years (~2007)   | 2nd Democratic president
+|Lee, MyungBak   | 5 years (~2012)   | Opportunistic
+|Park, KeunHye    | 5 years (~2017)   | Military?-Daughter of Park, JungHee
+
 
