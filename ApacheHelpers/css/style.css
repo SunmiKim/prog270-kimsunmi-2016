@@ -2,3 +2,12 @@
 img.twenty-five-percent{
 width: 25%;
 }
+
+img.fifty-percent{
+width: 50%;
+}
+
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}

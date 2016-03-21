@@ -1,0 +1,3 @@
+cp -rf /var/www/html/css ~/Git/prog270-kimsunmi-2016/ApacheHelpers/.
+cp -rf /var/www/html/images ~/Git/prog270-kimsunmi-2016/ApacheHelpers/.
+cp -rf /var/www/html/js ~/Git/prog270-kimsunmi-2016/ApacheHelpers/.

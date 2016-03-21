@@ -1,6 +1,7 @@
 $(document).ready(function() {
     $('table').addClass('table table-striped table-hover');
 });
+
 $(document).ready(function() {
     $('table').addClass('table table-striped table-hover');
 
@@ -10,6 +11,20 @@ $(document).ready(function() {
         $.getJSON('/cgi-bin/get-presidents.py', function(presidents) {
             presidents.forEach(function(president) {
                 $('#bar').append('<li>' + president[1] + ' ' + president[2] + '</li>');
+            });
+        })
+    }
+});
+
+$(document).ready(function() {
+    $('table').addClass('table table-striped table-hover');
+
+    $('#getBooks').click(getBooks);
+
+    function getBooks() {
+        $.getJSON('/cgi-bin/get-books.py', function(books) {
+            books.forEach(function(book) {
+                $('#bar').append('<li>' + book[1] + ' ' + 'owned by ' + book[2] + '</li>');
             });
         })
     }
