@@ -1,6 +1,11 @@
 # Leadership
 
-<pre>Question: Identify a successful leader you have observed in a workplace and describe how he or she demonstrated the characteristics of effective leaders? How were these people leaders rather than merely managers?</pre>
+<pre><code>Question:
+
+- Identify a successful leader you have observed in a workplace and describe how he or she demonstrated the characteristics of effective leaders?
+
+- How were these people leaders rather than merely managers?
+</code></pre>
 
 
  In my experience at workplaces in the United States, my managers, are ‘real’ talented managers but I seldom mentioned them as ‘leaders’ not because I’m disqualifying them as leaders but because they became leaders not by votes. For this reason, I want to introduce one real leader who had made a great impact on my life. He is pretty similar with Abraham Lincoln in the United States with some similarities from the list below:
@@ -58,7 +63,7 @@ Written by Sun-mi Kim
 
 ### More to read
 
-<a class="btn btn-info btn-sm" href="../index.html" role="button">GoTo Home</a> 
+<a class="btn btn-info btn-sm" href="../index.html" role="button">GoTo Main</a> 
 <a class="btn btn-primary btn-sm" href="../bootstrap/bootstrap-demo01.html" role="button">Bootstrap1</a>
 <a class="btn btn-success btn-sm" href="../bootstrap/bootstrap-demo02.html" role="button">Bootstrap2</a> 
 <a class="btn btn-warning btn-sm" href="../markdown/EQ_QnA.html" role="button">What is EQ?</a>

@@ -2,9 +2,12 @@
 
 #### My thought on successful team at workplaces
 
-<pre>
-Question: Too often the group experience ends in frustration.  Which three suggestions offered in the section, "What Makes a Group a Team," do you think are most likely to help a workplace group be a successful and satisfying experience?
-</pre>
+<pre><code>Question:
+
+Too often the group experience ends in frustration.
+Which three suggestions offered in the section, "What Makes a Group a Team," do you think are most likely to help a workplace group be a successful and satisfying experience?
+</code></pre>
+
 <p>
 Sometimes groups or teams experience frustration. One of the main reasons in light of my past work experience is members’ dissatisfaction within a team and another reason was due to lack of information or guideline on goal or purpose because not enough time was given for new members to train themselves especially in fast paced work environment. Our book “Communicating at work” suggests that “True teams have all the attributes of a group, but they have other qualities that distinguish them and make them more satisfying to work in and more productive.” (page 188) In order to make successful and satisfying experience within a team, I have three suggestions that I think will be crucial to create a successful team spirit: 
 </p>

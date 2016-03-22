@@ -1,6 +1,13 @@
 ## EQ: Emotional Intelligence Question
 
-<pre>Question: What is Emotional Intelligence and how does it differ from other aspects of self-development (i.e. task competence, organizational skills, time-management etc.)? The concept of EQ is sometimes attacked as “just a bunch of common sense that applies to kids who don’t know any better and not experienced professionals in the workplace.”  Why is emotional intelligence a critical workplace competency? What would the author of the article say to individuals who may argue that the workplace doesn't need to be so "touchy-feely"?</pre>
+<pre><code>Question:
+
+- What is Emotional Intelligence and how does it differ from other aspects of self-development (i.e. task competence, organizational skills, time-management etc.)?
+
+- The concept of EQ is sometimes attacked as “just a bunch of common sense that applies to kids who don’t know any better and not experienced professionals in the workplace.”
+
+- Why is emotional intelligence a critical workplace competency? What would the author of the article say to individuals who may argue that the workplace doesn't need to be so "touchy-feely"?
+</code></pre>
  
 <img src="../images/EQ_kitty.jpg" alt="Responsive image" class="img-thumbnail">
 <p>

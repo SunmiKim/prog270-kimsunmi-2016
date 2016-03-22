@@ -56,7 +56,7 @@
 
 ### More Links 
 <p>
-<a class="btn btn-info btn-sm" href="../index.html" role="button">GoTo Home</a> 
+<a class="btn btn-info btn-sm" href="../index.html" role="button">GoTo Main</a> 
 <a class="btn btn-primary btn-sm" href="../bootstrap/bootstrap-demo01.html" role="button">Bootstrap1</a>
 <a class="btn btn-success btn-sm" href="../markdown/leadership.html" role="button">Leadership</a> 
 <a class="btn btn-warning btn-sm" href="../markdown/EQ_QnA.html" role="button">What is EQ?</a>
