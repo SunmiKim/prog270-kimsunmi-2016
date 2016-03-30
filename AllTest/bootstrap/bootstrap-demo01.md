@@ -31,60 +31,39 @@
 
 ## From Book of John chapter 3 in NIV Bible
 <div class="padded">
-  <div class="col-sm-4">
-	<div class="panel panel-default">
-      <div class="panel-heading">
-        <h3 class="panel-title">Angry</h3>
-      </div>
-      <div class="panel-body">
-        <img src="images2/gallery/20150902_A_Angry-s.jpg" width="100%" alt="Angry">
-      </div>
-    </div>
-    <div class="panel panel-primary">
-      <div class="panel-heading">
-        <h3 class="panel-title">Hopeful</h3>
-      </div>
-      <div class="panel-body">
-        <img src="images2/gallery/20150902_D_Hope-s.jpg" width="100%" alt="Hopeful">
-      </div>
-    </div>
-  </div><!-- /.col-sm-4 -->
-  <div class="col-sm-4">
-    <div class="panel panel-success">
-      <div class="panel-heading">
-        <h3 class="panel-title">Disregard</h3>
-      </div>
-      <div class="panel-body">
-        <img src="images2/gallery/20150902_C_Disregard-s.jpg" width="100%" alt="Disregard">
-      </div>
-    </div>
-    <div class="panel panel-info">
-      <div class="panel-heading">
-        <h3 class="panel-title">Ignore</h3>
-      </div>
-      <div class="panel-body">
-        <img src="images2/gallery/20150902_B_Ignore-s.jpg" width="100%" alt="Ignore">
-      </div>
-    </div>
-  </div><!-- /.col-sm-4 -->
-  <div class="col-sm-4">
-    <div class="panel panel-warning">
-      <div class="panel-heading">
-        <h3 class="panel-title">Abandon</h3>
-      </div>
-      <div class="panel-body">
-        <img src="images2/gallery/20150902_E_Abandon-s.jpg" width="100%" alt="Abandon">
-      </div>
-    </div>
-    <div class="panel panel-danger">
-      <div class="panel-heading">
-        <h3 class="panel-title">Despair</h3>
-      </div>
-      <div class="panel-body">
-        <img src="images2/gallery/20150902_F_Despair-s.jpg" width="100%" alt="Despair">
-      </div>
-    </div>
-   </div> 
+
+<span class="label label-primary"><strong>John 3:16</strong></span>
+<div class="panel panel-primary">
+
+<div class="panel-body">For God so loved the world that he gave his one and only Son, 
+that whoever believes in him shall not perish but have eternal life. </div>
+</div>
+
+<span class="label label-success"><strong>John 3:17</strong></span>
+<div class="panel panel-success">
+<div class="panel-body">For God did not send his Son into the world to condemn the world,
+ but to save the world through him. </div>
+</div>
+
+<span class="label label-info"><strong>John 3:19</strong></span>
+<div class="panel panel-info">
+<div class="panel-body">This is the verdict: Light has come into the world, but people 
+loved darkness instead of light because their deeds were evil. </div>
+</div>
+
+<span class="label label-warning"><strong>John 3:20</strong></span>
+<div class="panel panel-warning">
+<div class="panel-body">Everyone who does evil hates the light, and will not come into the light 
+for fear that their deeds will be exposed.</div>
+</div>
+
+<span class="label label-danger"><strong>John 3:21</strong></span>
+<div class="panel panel-danger">
+<div class="panel-body">But whoever lives by the truth comes into the light, so that it may 
+be seen plainly that what they have done has been done in the sight of God.</div>
+</div>
+</div>
+
 ### More Links 
 
 <a class="btn btn-info btn-sm" href="../sunmikim/index.html" role="button">Kitty Web</a> 
